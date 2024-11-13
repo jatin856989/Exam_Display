@@ -20,3 +20,5 @@ Run the Application: Compile and run the Exam.java file to start the quiz.
 Requirements
 Java JDK 8 or above
 Java Swing library (included in JDK)
+
+![Project ScreenShot](https://github.com/jatin856989/Exam_Display/blob/main/Exam_Display/exam.png?raw=true)
